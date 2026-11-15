@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    background: #10243a;
+    color: white;
+    padding: 25px;
+}
+
+.hero {
+    background: #1769aa;
+    color: white;
+    padding: 80px 20px;
+}
+
+a {
+    background: gold;
+    color: black;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 35px;
+}
+
+footer {
+    background: #10243a;
+    color: white;
+    padding: 15px;
+}
